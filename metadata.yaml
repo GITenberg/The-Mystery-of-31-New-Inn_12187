@@ -1,0 +1,33 @@
+_repo: The-Mystery-of-31-New-Inn_12187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Freeman, R. Austin (Richard Austin)
+    alias: Freeman, Richard Austin
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '3551'
+    url: http://www.gutenberg.org/2009/agents/3551
+description: This classic detective tale shares a number of characteristics with the
+  Sherlock Holmes series penned by Arthur Conan Doyle -- enough to ensure that Holmes
+  fans will feel right at home -- but the duo of sleuth Dr. Thorndyke and his protege
+  Christopher Jarvis are unique enough to earn readers' loyalty on their own merits.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Thorndyke, Doctor (Fictitious character) -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: The Mystery of 31 New Inn
+url: http://www.gutenberg.org/ebooks/12187
